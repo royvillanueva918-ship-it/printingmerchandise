@@ -1,0 +1,252 @@
+.mediaViewInfo {
+	--web-view-name: Web 1280 – 3;
+	--web-view-id: Web_1280__3;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1280__3;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1280__3 {
+	position: absolute;
+	width: 1280px;
+	height: 800px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1280 – 3;
+	--web-view-id: Web_1280__3;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+#wallpaper {
+	position: absolute;
+	width: 1280px;
+	height: 800px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#__TEMP__SVG__ {
+	position: absolute;
+	width: 18.667px;
+	height: 18.667px;
+	left: 54px;
+	top: 74.333px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1280___1.html;
+	cursor: pointer;
+}
+#Path_4 {
+	fill: rgba(255,255,255,1);
+}
+.Path_4 {
+	overflow: visible;
+	position: absolute;
+	width: 18.667px;
+	height: 18.667px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_5 {
+	fill: rgba(255,255,255,1);
+}
+.Path_5 {
+	overflow: visible;
+	position: absolute;
+	width: 4.668px;
+	height: 8.168px;
+	left: 5.249px;
+	top: 5.249px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_6 {
+	fill: rgba(255,255,255,1);
+}
+.Path_6 {
+	overflow: visible;
+	position: absolute;
+	width: 7px;
+	height: 1.167px;
+	left: 6.417px;
+	top: 8.75px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Contact_Us {
+	left: 77.612px;
+	top: 72px;
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trebuchet MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Wed_love_to_hear_from_you_For_ {
+	left: 73px;
+	top: 214px;
+	position: absolute;
+	overflow: visible;
+	width: 430px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trebuchet MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_6 {
+	opacity: 0.45;
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 666px;
+	height: 341px;
+	left: 536px;
+	top: 214px;
+}
+#Rectangle_7 {
+	fill: transparent;
+	stroke: rgba(243,124,164,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 311px;
+	height: 44px;
+	left: 553px;
+	top: 238px;
+}
+#Rectangle_8 {
+	fill: transparent;
+	stroke: rgba(243,124,164,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 312px;
+	height: 44px;
+	left: 874px;
+	top: 238px;
+}
+#Rectangle_9 {
+	fill: transparent;
+	stroke: rgba(243,124,164,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 633px;
+	height: 184px;
+	left: 553px;
+	top: 294px;
+}
+#Rectangle_10 {
+	fill: rgba(243,124,164,1);
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	height: 44px;
+	left: 553px;
+	top: 491px;
+}
+#Name {
+	left: 569.927px;
+	top: 246.439px;
+	position: absolute;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trebuchet MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(243,124,164,1);
+}
+#E-mail {
+	left: 889.104px;
+	top: 246.439px;
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trebuchet MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(243,124,164,1);
+}
+#Message {
+	left: 569.927px;
+	top: 302.521px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trebuchet MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(243,124,164,1);
+}
+#Send_Message {
+	left: 576px;
+	top: 502.5px;
+	position: absolute;
+	overflow: visible;
+	width: 110px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trebuchet MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#corner_drag {
+	position: absolute;
+	width: 28px;
+	height: 13px;
+	left: 1158px;
+	top: 460px;
+	overflow: visible;
+}

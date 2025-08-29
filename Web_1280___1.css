@@ -1,0 +1,494 @@
+.mediaViewInfo {
+	--web-view-name: Web 1280 – 1;
+	--web-view-id: Web_1280__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1280__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1280__1 {
+	position: absolute;
+	width: 1280px;
+	height: 1595px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1280 – 1;
+	--web-view-id: Web_1280__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+#wallpaper_bb {
+	position: absolute;
+	width: 1280px;
+	height: 800px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Component_1__1 {
+	position: absolute;
+	width: 1102px;
+	height: 476px;
+	left: 89px;
+	top: 118px;
+	overflow: visible;
+}
+#Mask_Group_1 {
+	position: absolute;
+	width: 1069px;
+	height: 462px;
+	left: 18px;
+	top: 0px;
+	overflow: visible;
+}
+#arrow-left-circle-fill {
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 0px;
+	top: 215px;
+	overflow: visible;
+}
+#Path_1 {
+	fill: rgba(247,205,205,1);
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#arrow-left-circle-fill_bg {
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 1066px;
+	top: 215px;
+	overflow: visible;
+}
+#Path_1_bh {
+	fill: rgba(253,132,132,1);
+}
+.Path_1_bh {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_2 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	height: 7px;
+	left: 528px;
+	top: 469px;
+}
+#Rectangle_3 {
+	fill: rgba(246,44,111,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	height: 7px;
+	left: 475px;
+	top: 469px;
+}
+#Rectangle_4 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	height: 7px;
+	left: 581px;
+	top: 469px;
+}
+#Rectangle_18 {
+	filter: blur(30px);
+	fill: rgba(239,198,211,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_18 {
+	position: absolute;
+	overflow: visible;
+	width: 1304px;
+	height: 96px;
+	left: -13px;
+	top: -2px;
+}
+#Home {
+	left: 363.978px;
+	top: 36.5px;
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trebuchet MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#About_Us_bn {
+	left: 460.715px;
+	top: 36.5px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1280___2.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Trebuchet MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Contact_Us_bo {
+	left: 591.612px;
+	top: 36.5px;
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1280___3.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Trebuchet MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Products {
+	left: 745.755px;
+	top: 36.5px;
+	position: absolute;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trebuchet MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Component_3__1 {
+	position: absolute;
+	width: 62px;
+	height: 23px;
+	left: 1102px;
+	top: 36.5px;
+	overflow: visible;
+}
+#Rectangle_5 {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(246,44,111,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	height: 23px;
+	left: 2px;
+	top: 0px;
+}
+#Search {
+	opacity: 0;
+	left: 0px;
+	top: 3px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trebuchet MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(246,44,111,1);
+}
+#search {
+	position: absolute;
+	width: 13.001px;
+	height: 13px;
+	left: 42px;
+	top: 4px;
+	overflow: visible;
+}
+#Path_2 {
+	fill: rgba(255,255,255,1);
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 4.753px;
+	height: 4.754px;
+	left: 8.247px;
+	top: 8.246px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_3 {
+	fill: rgba(255,255,255,1);
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 10.563px;
+	height: 10.563px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ios-arrow-down {
+	fill: rgba(255,255,255,1);
+}
+.ios-arrow-down {
+	overflow: visible;
+	position: absolute;
+	width: 16.499px;
+	height: 9.434px;
+	left: 832px;
+	top: 45.318px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#INKS {
+	position: absolute;
+	width: 229px;
+	height: 153px;
+	left: 99px;
+	top: 626px;
+	overflow: visible;
+}
+#Rectangle_12 {
+	fill: rgba(243,124,164,1);
+}
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 229px;
+	height: 130px;
+	left: 0px;
+	top: 0px;
+}
+#Untitled-1 {
+	position: absolute;
+	width: 172px;
+	height: 83px;
+	left: 29px;
+	top: 0px;
+	overflow: visible;
+}
+#cuyi-pigment-banner_copy {
+	position: absolute;
+	width: 182px;
+	height: 90px;
+	left: 24px;
+	top: 33px;
+	overflow: visible;
+}
+#Inks {
+	left: 97px;
+	top: 130px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trebuchet MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Papers {
+	position: absolute;
+	width: 254px;
+	height: 254px;
+	left: 363px;
+	top: 559px;
+	overflow: visible;
+}
+#Rectangle_13 {
+	fill: rgba(243,124,164,1);
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 229px;
+	height: 130px;
+	left: 12px;
+	top: 67px;
+}
+#PHOTO-PAPER-_HOMEPAGE_e7d49627 {
+	position: absolute;
+	width: 254px;
+	height: 254px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Papers_b {
+	left: 90px;
+	top: 197px;
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trebuchet MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Subli {
+	position: absolute;
+	width: 345px;
+	height: 196px;
+	left: 593px;
+	top: 583px;
+	overflow: visible;
+}
+#Rectangle_14 {
+	fill: rgba(243,124,164,1);
+}
+.Rectangle_14 {
+	position: absolute;
+	overflow: visible;
+	width: 229px;
+	height: 130px;
+	left: 58px;
+	top: 43px;
+}
+#How_To_Fix_All_Lights_Flashing {
+	position: absolute;
+	width: 345px;
+	height: 180px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Sublimation_Materials {
+	left: 76px;
+	top: 173px;
+	position: absolute;
+	overflow: visible;
+	width: 194px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trebuchet MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Printer {
+	position: absolute;
+	width: 229px;
+	height: 159px;
+	left: 927px;
+	top: 623px;
+	overflow: visible;
+}
+#Rectangle_15 {
+	fill: rgba(243,124,164,1);
+}
+.Rectangle_15 {
+	position: absolute;
+	overflow: visible;
+	width: 229px;
+	height: 130px;
+	left: 0px;
+	top: 3px;
+}
+#ID92b0ecbc-5eb9-4f0f-8a4e-c319 {
+	position: absolute;
+	width: 205px;
+	height: 159px;
+	left: 13px;
+	top: 0px;
+	overflow: visible;
+}
+#Printers {
+	left: 81px;
+	top: 136px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trebuchet MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
